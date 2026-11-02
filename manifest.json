@@ -1,12 +1,16 @@
 {
-  "background_color": "rgb(15, 23, 42)",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "TaskEarn",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "TaskEarn",
   "start_url": "/",
-  "theme_color": "rgb(30, 27, 75)",
-  "description": "Earn rewards and complete tasks"
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e1b4b",
+  "description": "Earn rewards and complete tasks",
+  "icons": [
+    {
+      "src": "https://pwabuilder.com/assets/images/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
